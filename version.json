@@ -17,6 +17,18 @@
     "1.0.3": [
       "Add archive button, you now can archive your habits aka soft delete without losing its statistics.",
       "Change on UI, made it much simplier and now you can long press on the habits to open its actions."
+    ],
+    "1.0.4": [
+      "Add archive button, you now can archive your habits aka soft delete without losing its statistics.",
+      "Change on UI, made it much simplier and now you can long press on the habits to open its actions."
+    ],
+    "1.1.0": [
+      "Add archive button, you now can archive your habits aka soft delete without losing its statistics.",
+      "Change on UI, made it much simplier and now you can long press on the habits to open its actions."
+    ],
+    "1.2.3": [
+      "Add archive button, you now can archive your habits aka soft delete without losing its statistics.",
+      "Change on UI, made it much simplier and now you can long press on the habits to open its actions."
     ]
   }
 }
