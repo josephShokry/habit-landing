@@ -7,18 +7,16 @@
     "Add 3 Hp Restore spells",
     "Add an increase max hp spell"
   ],
-  "updates":[
-    {
-      "1.0.2": [
-        "Add buttom navigator",
-        "Add store screen",
-        "Add 3 Hp Restore spells",
-        "Add an increase max hp spell"
-      ],
-      "1.0.3": [
-        "Add archive button, you now can archive your habits aka soft delete without losing its statistics.",
-        "Change on UI, made it much simplier and now you can long press on the habits to open its actions."
-      ]
-    }
-  ]
+  "updates": {
+    "1.0.2": [
+      "Add buttom navigator",
+      "Add store screen",
+      "Add 3 Hp Restore spells",
+      "Add an increase max hp spell"
+    ],
+    "1.0.3": [
+      "Add archive button, you now can archive your habits aka soft delete without losing its statistics.",
+      "Change on UI, made it much simplier and now you can long press on the habits to open its actions."
+    ]
+  }
 }
