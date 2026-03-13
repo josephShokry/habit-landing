@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "url": "https://josephshokry.github.io/habit-landing/habit.apk",
   "updates": {
     "1.0.2": [
@@ -17,6 +17,9 @@
       "Toast feedback on change in xp or coins",
       "Enhance day navigator, tap on the date to go to a specific date",
       "New logo and UI enhancement",
+      "Some bug fixes"
+    ],
+    "1.0.5": [
       "Some bug fixes"
     ]
   }
